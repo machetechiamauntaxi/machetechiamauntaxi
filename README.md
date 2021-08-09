@@ -8,4 +8,13 @@
 machetechiamauntaxi/machetechiamauntaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-@machetechiamauntaxi
+<h1 align=center> Contattami in:</h1>
+<p align=center>
+  <a href="https://t.me/SparkAPI">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a/>
+</p>
+
+< ore>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=@machetechiamauntaxi=gradient&show_icons=true&custom_title=Stats of @machetechiamauntaxi_private=true" /></p>
+< ore>
