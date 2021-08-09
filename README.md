@@ -14,6 +14,3 @@ You can click the Preview link to take a look at your changes.
   <a/>
 </p>
 
-< ore>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=@machetechiamauntaxi=gradient&show_icons=true&custom_title=Stats of @machetechiamauntaxi_private=true" /></p>
-< ore>
